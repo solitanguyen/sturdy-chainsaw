@@ -1,0 +1,42 @@
+html {height:100%;
+background: url(logitech-pebble-m350.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size:cover;
+background-size: cover;
+}
+body {height: 100%;}
+*{margin: 0;padding: 0;}
+
+.homepage {text-align: center;}
+
+.homepage .navigation {
+    padding-top: 100px;
+    text-align: center;
+    display: flex;
+    width: 262px;
+    font-size: 40px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+.homepage .navigation .product {
+    padding-right: 80px;
+}
+.homepage .navigation .solution {
+    margin-right: 80px;
+}
+.homepage .navigation .support {
+    margin-right: 80px;
+}
+.homepage .title {
+    padding-top: 435px;;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 100px;
+}
+
+.homepage .title1 {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 60px;
+}
